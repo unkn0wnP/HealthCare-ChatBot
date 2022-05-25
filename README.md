@@ -65,3 +65,9 @@ Also if you type keywords like:
 “thanks”, “thank you”, “who are you?”, “your name?”, "can you describe your self?", “bye”, “good bye”, “byy”
 
 Bot will reply you with his message.
+
+**Screenshots** :
+
+![ss1](https://user-images.githubusercontent.com/91385532/170276081-1ab09135-7547-49c2-8feb-a5d0bcec5cde.jpg)
+![ss2](https://user-images.githubusercontent.com/91385532/170276112-c5bc9162-ecd2-45b0-8ac3-d89491a9a26c.jpg)
+![ss3](https://user-images.githubusercontent.com/91385532/170276114-3e7e9467-7741-43b7-9403-df00fbd61c68.png)
