@@ -27,13 +27,13 @@ While project contains 3 files:
 
 In GUI format we have added 3 menu like:
 
-**1.	File : **
+**1. File**
 File contains attributes like: Clear Chat and Exit
 
-**2.	Options : **
+**2. Options**
 In Options we have added Font and Color Theme. Font contains some fonts that are display when you chat with bot. And Color theme changes theme of gui for conversation.
 
-**3.	Help : **
+**3. Help**
 It includes basic information about our project.
 
 **What input should be given to run code smoothly?**
