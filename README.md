@@ -23,7 +23,7 @@ While project contains 3 files:
 
 •	**apiaccess.py** [It contains code to access infermedica API]
 
-Features of this project
+**Features of this project**
 In GUI format we have added 3 menu like:
 1.	File
 File contains attributes like: Clear Chat and Exit
