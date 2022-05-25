@@ -34,20 +34,34 @@ In Options we have added Font and Color Theme. Font contains some fonts that are
 3.	Help
 It includes basic information about our project.
 
-What input should be given to run code smoothly?
+**What input should be given to run code smoothly?**
+
 For starting the program you must write following words as keywords for greetings:
+
 "hello", "hi", "hiii", "hii", "hiiii", "hiiii", "greetings", "sup", "what's up", "hey"
+
 Eg. Hello chatbot
+
 Let’s come to point and use following keywords to chat for healthcare advice: 
+
 "not well", "not feeling well", "ill", "symptoms", "Symptom"
+
 Eg. I am ill right now
+
 As soon as you write above keywords program will ask you for your age, gender and your symptoms. You have to write all your symptoms without pressing enter key.
+
 Eg. I have fever last night and coughing continously. Also having headache like hammering in my head.
+
 After this you will view message from bot of noting your symptoms and you have to press enter to continue further conversations.
+
 Now bot will ask you some questions in which you have to answer them as yes or no. If you write anything else of yes and no it will consider as user don’t know its answer.
+
 At last your report will be generated.
+
 Also if you type keywords like:
+
 “thanks”, “thank you”, “who are you?”, “your name?”, "can you describe your self?", “bye”, “good bye”, “byy”
+
 Bot will reply you with his message.
 
 
